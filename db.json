@@ -28,7 +28,38 @@
       "id": 2
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "name": "Jack",
+      "email": "Jack@jack.com",
+      "id": 1
+    },
+    {
+      "name": "Alex",
+      "email": "Alex@alex.com",
+      "id": 2
+    },
+    {
+      "name": "John",
+      "email": "John@john.com",
+      "id": 3
+    },
+    {
+      "name": "Mustafa",
+      "email": "Mustafa@mustafa.com",
+      "id": 4
+    },
+    {
+      "name": "Billy",
+      "email": "Billy@billy.com",
+      "id": 5
+    },
+    {
+      "name": "Sean",
+      "email": "Sean@sean.com",
+      "id": 6
+    }
+  ],
   "robots": [
     {
       "robotName": "C8-09S100K",
